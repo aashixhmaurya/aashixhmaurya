@@ -35,7 +35,7 @@
 </p>
 
 ## Put Me On🤌🏾
-know any hackathons, dev events or projects I could jump into? drop 'em here before i find out 4 business days after it's over🫩
+if know any hackathons, dev events or projects I could jump into? drop 'em here before i find out 4 business days after it's over🫩
 ## Stats🧐
 
 <p align="left">
